@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://vul.wiki/wiki/hello-world/</loc>
+    
+    <lastmod>2018-07-16T01:53:00.518Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vul.wiki/tags/index.html</loc>
     
     <lastmod>2018-07-16T01:33:58.437Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://vul.wiki/categories/index.html</loc>
     
     <lastmod>2018-07-16T01:33:58.436Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://vul.wiki/about/index.html</loc>
     
     <lastmod>2018-07-16T01:33:58.435Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/wiki/hello-world/</loc>
-    
-    <lastmod>2018-07-16T01:17:56.204Z</lastmod>
     
   </url>
   
